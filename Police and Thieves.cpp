@@ -1,4 +1,4 @@
-class Solution{
+class Solution {
     public:
     int catchThieves(char arr[], int n, int k) 
     {
